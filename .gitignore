@@ -1,0 +1,21 @@
+	.DS_Store
+	.Trash/
+	.cocoapods/
+	.config/
+	.docker/
+	.gitignore
+	.npm/
+	.oh-my-zsh/
+	.sh_history
+	.vscode/
+	.yarnrc
+	".zcompdump-Lucas\342\200\231s MacBook Pro-5.3"
+	.zplugin/
+	.zsh_history
+	.zshrc
+	Applications/
+	Desktop/
+	Downloads/
+	Library/
+	git
+	iterm/
